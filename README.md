@@ -7,6 +7,7 @@ Creator: NoobBit
 
 # Installation
 ### Git Installation Method
+> Make sure git is installed
 ```
 1. Make sure git is installed
 2. Click the code button
