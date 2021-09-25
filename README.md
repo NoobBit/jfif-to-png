@@ -9,15 +9,14 @@ Creator: NoobBit
 ### Git Installation Method
 > Make sure git is installed
 ```
-1. Make sure git is installed
-2. Click the code button
-3. Copy the url
-4. Open Command Prompt/Powershell/Terminal/Bash 
-5. Type in "git clone (url that you copied)"
-6. Click enter
-7. Navagate your directory like "cd (name of the app)"
-8. Next run "python -m pip install -r requirements.txt"
-9. Then run "python main.py"
+1. Click the code button
+2. Copy the url
+3. Open Command Prompt/Powershell/Terminal/Bash 
+4. Type in "git clone (url that you copied)"
+5. Click enter
+6. Navagate your directory like "cd (name of the app)"
+7. Next run "python -m pip install -r requirements.txt"
+8. Then run "python main.py"
 
 Enjoy!
 ```
