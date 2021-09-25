@@ -15,7 +15,8 @@ Creator: NoobBit
 5. Type in "git clone (url that you copied)"
 6. Click enter
 7. Navagate your directory like "cd (name of the app)"
-8. Then run "python main.py"
+8. Next run "python -m pip install -r requirements.txt"
+9. Then run "python main.py"
 
 Enjoy!
 ```
@@ -25,7 +26,9 @@ Enjoy!
 2. Click download zip
 3. Extract the files
 4. Navagate to your directory
-5. Then run the file "main.py"
+5. Open Command Prompt/Powershell/Terminal/Bash
+6. Next run "python -m pip install -r requirements.txt"
+7. Then run the file "python main.py"
 
 Enjoy!
 ```
