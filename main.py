@@ -1,4 +1,3 @@
-from PIL import Image as Img
 from tkinter import *
 from tkinter import filedialog, messagebox
 import cv2
@@ -27,12 +26,11 @@ def open_image_result():
     cv2.imshow("Jfif to Png Conversion Tool - " + os.path.splitext(img)[0] + ".png", opened_img)
     key = cv2.waitKey(0)
     
-    if key == ord("q"):
-        cv2.destroyAllWindows()
+    cv2.destroyAllWindows()
 
 def convert():
-    pic = Img.open(str(img))
-    pic.save(os.path.splitext(img)[0] + ".png")
+    pic = cv2.imread(img, 1)
+    cv2.imwrite(os.path.splitext(img)[0] + ".png", pic)
 
     open_image_result()
 
