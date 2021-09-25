@@ -6,7 +6,7 @@ Snapshot 2021.9.25.0
 Creator: NoobBit
 
 # Installation
-## Git Installation Method
+### Git Installation Method
 ```
 1. Make sure git is installed
 2. Click the code button
