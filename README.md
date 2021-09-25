@@ -19,3 +19,13 @@ Creator: NoobBit
 
 Enjoy!
 ```
+### Release Download Method
+```
+1. Click the code button
+2. Click download zip
+3. Extract the files
+4. Navagate to your directory
+5. Then run the file "main.py"
+
+Enjoy!
+```
