@@ -5,6 +5,6 @@ Jfif to png is an app I made to convert .jfif files to .png files quickly. I got
 Snapshot 2021.9.25.0
 Creator: NoobBit
 
-#Installation
-1. Git clone method
+# Installation
+##Git clone method
 - Click the code button
