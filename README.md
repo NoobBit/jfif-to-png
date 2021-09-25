@@ -6,5 +6,13 @@ Snapshot 2021.9.25.0
 Creator: NoobBit
 
 # Installation
-## Git clone method
+## Git Installation Method
+- Make sure git is installed
 - Click the code button
+- Copy the url
+- Open Command Prompt/Powershell/Terminal/Bash 
+- Type in "git clone (url that you copied)"
+- Click enter
+- Navagate your directory like "cd (name of the app)"
+- Then run "python main.py"
+- Enjoy!
