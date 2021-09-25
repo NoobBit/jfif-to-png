@@ -6,5 +6,5 @@ Snapshot 2021.9.25.0
 Creator: NoobBit
 
 # Installation
-##Git clone method
+## Git clone method
 - Click the code button
