@@ -8,13 +8,14 @@ Creator: NoobBit
 # Installation
 ## Git Installation Method
 ```
-- Make sure git is installed
-- Click the code button
-- Copy the url
-- Open Command Prompt/Powershell/Terminal/Bash 
-- Type in "git clone (url that you copied)"
-- Click enter
-- Navagate your directory like "cd (name of the app)"
-- Then run "python main.py"
-- Enjoy!
+1. Make sure git is installed
+2. Click the code button
+3. Copy the url
+4. Open Command Prompt/Powershell/Terminal/Bash 
+5. Type in "git clone (url that you copied)"
+6. Click enter
+7. Navagate your directory like "cd (name of the app)"
+8. Then run "python main.py"
+
+Enjoy!
 ```
