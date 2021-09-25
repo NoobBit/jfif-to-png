@@ -7,7 +7,7 @@ Creator: NoobBit
 
 # Installation
 ## Git Installation Method
-"""
+```
 - Make sure git is installed
 - Click the code button
 - Copy the url
@@ -17,4 +17,4 @@ Creator: NoobBit
 - Navagate your directory like "cd (name of the app)"
 - Then run "python main.py"
 - Enjoy!
-"""
+```
